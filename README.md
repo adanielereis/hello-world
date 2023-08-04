@@ -1,2 +1,2 @@
 console.log("Hello World")
-console.log("Resposta atividade 1")
+console.log("1° Atividade Cubos Academy")
