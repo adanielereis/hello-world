@@ -1,2 +1,1 @@
-# hello-world
-1° Atividade Cubos Academy
+console.log("Hello World")
